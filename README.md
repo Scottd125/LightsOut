@@ -40,10 +40,10 @@ The player is presented with a grid of lights that are either on or off to begin
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="Screenshots/screenshot1.PNG" alt="screenshot" />
-  <img src="Screenshots/screenshot2.PNG" alt="screenshot" />
-  <img src="Screenshots/screenshot3.PNG" alt="screenshot" />
-  <img src="Screenshots/screenshot4.PNG" alt="screenshot" />
+  <img src="Screenshots/screenshot1.png" alt="screenshot" />
+  <img src="Screenshots/screenshot2.png" alt="screenshot" />
+  <img src="Screenshots/screenshot3.png" alt="screenshot" />
+  <img src="Screenshots/screenshot4.png" alt="screenshot" />
 </div>
 
 
