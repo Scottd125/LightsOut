@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightsOut", "LightsOut.csproj", "{D9D859D0-3C93-4184-9B2E-DCB3D8764207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LightsOut", "LightsOut\LightsOut.csproj", "{D9D859D0-3C93-4184-9B2E-DCB3D8764207}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{993D8A01-FCD7-4B98-BA8E-7FDF827D583D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{993D8A01-FCD7-4B98-BA8E-7FDF827D583D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
